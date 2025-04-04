@@ -20,7 +20,7 @@ body {
   color: rgb(0, 0, 0);
   font-size: 20px;
 }
-.confirm {
+#confirm-button {
   background-color: green;
   color: white;
   font-weight: bold;
