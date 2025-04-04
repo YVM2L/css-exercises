@@ -13,6 +13,10 @@
 }
 #fourth {
     background-color: lightgreen;
+<<<<<<< HEAD
+=======
+    font-size: 24px;
+>>>>>>> a5f9998d5d4e0ba7db27cea564b921eb9b3b15e4
     font-weight: bold;
     color: black;
 }
