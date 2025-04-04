@@ -2,9 +2,13 @@
     background-color: pink;
     color: black;
     font-size: 18px;
-    font: Verdana, "DejaVu Sans", sans-serif
+    font: Verdana, "DejaVu Sans", sans-serif;
 }
 .special {
     font-size: 24px;
     color: black;
+}
+#second {
+    color: blue;
+    font-size: 36px;
 }
