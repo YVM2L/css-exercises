@@ -30,3 +30,6 @@ img {
   justify-content: center;
   background: #eee;
 }
+.element {
+  max-width: 200px;
+}
