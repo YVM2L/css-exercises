@@ -13,6 +13,9 @@ img {
   font-weight: 900;
   margin-bottom: 32px;
 }
+.plants {
+  display: flex;
+}
 
 /* do not edit this footer */
 .footer {
