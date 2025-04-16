@@ -54,3 +54,9 @@ ul {
   padding: 0px;
   gap: 8px;
 }
+.left_side, .right_side {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  }
+  
