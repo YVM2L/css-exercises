@@ -5,6 +5,10 @@ body {
   display: flex;
   flex-direction: column;
 }
+.container {
+  display: flex;
+  flex: 1;
+}
 
 .header {
   height: 72px;
