@@ -5,6 +5,7 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  text-decoration: none;
 }
 .header, .footer {
   display: flex;
@@ -27,7 +28,11 @@ img {
 button {
   padding: 15px;
 }
+.left-links, .right-links {
+  display: flex;
+  gap: 30px;
 
+}
 button {
   font-family: Roboto, sans-serif;
   border: none;
