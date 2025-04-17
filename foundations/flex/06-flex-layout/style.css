@@ -6,6 +6,11 @@ body {
   overflow: hidden;
   font-family: Roboto, sans-serif;
 }
+.header, .footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+}
 
 img {
   width: 600px;
