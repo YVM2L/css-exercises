@@ -17,6 +17,9 @@ body {
   align-items: center;
   gap: 10px;
 }
+.footer {
+  background-color: #eeeeee;
+}
 
 img {
   width: 600px;
